@@ -1,0 +1,18 @@
+# Constructed from biom file
+#OTU ID	Rren	Hgin1	Pmed	Rque2	Hgin3	Maca2	Mpac2	Rmac	Pbra1	Pbra2	Mpac1	taxonomy
+JX406337.1.1721	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida; D_9__Rotylenchulus reniformis
+JF706244.1.1722	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Rhabditida; D_9__Halicephalobus gingivalis
+AJ966499.1.1761	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida; D_9__Pratylenchus thornei
+New.CleanUp.ReferenceOTU0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU3	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Rhabditida
+New.CleanUp.ReferenceOTU4	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Rhabditida; D_9__Halicephalobus gingivalis
+New.CleanUp.ReferenceOTU5	0.0	0.0	0.0	0.0	0.0	5.0	4.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida; D_9__Rotylenchulus borealis
+New.CleanUp.ReferenceOTU10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU12	0.0	0.0	0.0	22.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU15	0.0	0.0	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU16	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU17	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida

@@ -1,0 +1,10 @@
+New.CleanUp.ReferenceOTU7	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	0.990
+AJ966499.1.1761	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU0	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	0.990
+New.CleanUp.ReferenceOTU11	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia)	0.810
+New.CleanUp.ReferenceOTU9	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU8	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+JQ957888.1.1673	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida;D_9__Aphelenchoides subtenuis	1.000
+New.CleanUp.ReferenceOTU10	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+LDKF01005757.3283.5077	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida;D_9__Rotylenchulus reniformis	0.990
+New.CleanUp.ReferenceOTU6	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000

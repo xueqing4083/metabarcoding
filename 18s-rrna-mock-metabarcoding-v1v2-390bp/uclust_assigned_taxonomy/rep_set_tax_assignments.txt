@@ -1,0 +1,16 @@
+New.CleanUp.ReferenceOTU10	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida	1.00	3
+New.CleanUp.ReferenceOTU11	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida	1.00	3
+New.CleanUp.ReferenceOTU12	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU13	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida	1.00	3
+New.CleanUp.ReferenceOTU5	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida;Filenchus longiurus	0.67	3
+New.CleanUp.ReferenceOTU15	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU16	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida	1.00	3
+New.CleanUp.ReferenceOTU17	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida;Filenchus discrepans	0.67	3
+New.CleanUp.ReferenceOTU18	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida	1.00	3
+AJ966499.1.1761	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida;Pratylenchus thornei	1.00	3
+New.CleanUp.ReferenceOTU7	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida;Rotylenchulus borealis	0.67	3
+New.CleanUp.ReferenceOTU4	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halicephalobus cf. gingivalis PF-2011	0.67	3
+JF706244.1.1722	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halicephalobus cf. gingivalis PF-2011	0.67	3
+New.CleanUp.ReferenceOTU3	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halicephalobus cf. gingivalis PF-2011	0.67	3
+New.CleanUp.ReferenceOTU0	Unassigned	1.00	1
+JX406337.1.1721	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Tylenchida;Rotylenchulus reniformis	1.00	3

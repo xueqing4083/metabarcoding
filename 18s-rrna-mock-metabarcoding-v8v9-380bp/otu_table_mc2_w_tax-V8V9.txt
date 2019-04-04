@@ -1,0 +1,12 @@
+# Constructed from biom file									
+#OTU ID	Pmed	Rren	Rmac	Asub	Rque1	Pbra2	Pbra1	Xpar	taxonomy
+AJ966499.1.1761	5	0	0	0	0	0	0	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+LDKF01005757.3283.5077	0	19	1	0	0	0	0	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida; D_9__Rotylenchulus reniformis
+JQ957888.1.1673	0	0	0	4	0	0	0	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida; D_9__Aphelenchoides subtenuis
+New.CleanUp.ReferenceOTU0	0	0	0	0	19	0	0	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU6	0	0	8	0	0	0	0	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU7	0	0	0	0	7	0	0	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU8	0	0	0	0	0	2	1	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU9	0	0	0	0	0	2	0	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU10	0	0	0	0	0	2	7	0	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia); D_7__Chromadorea; D_8__Tylenchida
+New.CleanUp.ReferenceOTU11	0	0	0	0	0	0	0	2	D_0__Eukaryota; D_1__Opisthokonta; D_2__Holozoa; D_3__Metazoa (Animalia)

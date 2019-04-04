@@ -1,0 +1,16 @@
+AJ966499.1.1761	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida;D_9__Pratylenchus thornei	1.000
+New.CleanUp.ReferenceOTU4	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Rhabditida;D_9__Halicephalobus gingivalis	0.800
+New.CleanUp.ReferenceOTU16	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU15	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU3	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Rhabditida	1.000
+New.CleanUp.ReferenceOTU11	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+JX406337.1.1721	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida;D_9__Rotylenchulus reniformis	1.000
+JF706244.1.1722	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Rhabditida;D_9__Halicephalobus gingivalis	0.730
+New.CleanUp.ReferenceOTU5	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU12	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU10	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU0	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU18	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU13	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000
+New.CleanUp.ReferenceOTU7	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida;D_9__Rotylenchulus borealis	0.850
+New.CleanUp.ReferenceOTU17	D_0__Eukaryota;D_1__Opisthokonta;D_2__Holozoa;D_3__Metazoa (Animalia);D_7__Chromadorea;D_8__Tylenchida	1.000

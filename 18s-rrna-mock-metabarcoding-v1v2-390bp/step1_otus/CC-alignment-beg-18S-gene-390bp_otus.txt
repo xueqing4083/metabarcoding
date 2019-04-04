@@ -1,0 +1,4 @@
+JX406337.1.1721	Rren_1	Rren_2	Rren_7	Rren_8	Rren_10	Rren_15	Rren_16	Rren_18	Rren_5	Rren_14	Rren_17	Rren_19	Rren_4	Rren_9	Rren_6	Rren_3	Rren_11	Rren_12	Rren_13
+JF706244.1.1722	Hgin1_2	Hgin1_7
+AJ966499.1.1761	Pmed_1	Pmed_2	Pmed_5	Pmed_4	Pmed_3
+LDKF01007681.2908.4704	Rmac_10

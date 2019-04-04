@@ -1,0 +1,82 @@
+# uclust --input /tmp/UclustExactMatchFilterrNSo1c.fasta --id 0.99 --tmpdir /tmp --rev --w 8 --stepwords 8 --usersort --maxaccepts 1 --stable_sort --maxrejects 8 --uc /Users/hollybik/Dropbox/Projects/rRNA-WimQing/CC-alignment-beg-18S-gene-390bp/step4_otus/failures_clusters.uc
+# version=1.2.22
+# Tab-separated fields:
+# 1=Type, 2=ClusterNr, 3=SeqLength or ClusterSize, 4=PctId, 5=Strand, 6=QueryStart, 7=SeedStart, 8=Alignment, 9=QueryLabel, 10=TargetLabel
+# Record types (field 1): L=LibSeed, S=NewSeed, H=Hit, R=Reject, D=LibCluster, C=NewCluster, N=NoHit
+# For C and D types, PctId is average id with seed.
+# QueryStart and SeedStart are zero-based relative to start of sequence.
+# If minus strand, SeedStart is relative to reverse-complemented seed.
+S	0	400	*	*	*	*	*	QiimeExactMatch.Rque2_3	*
+S	1	399	*	*	*	*	*	QiimeExactMatch.Rque2_12	*
+H	0	401	99.2	+	0	0	48MD352M	QiimeExactMatch.Rque2_7	QiimeExactMatch.Rque2_3
+S	2	398	*	*	*	*	*	QiimeExactMatch.Pbra1_3	*
+S	3	394	*	*	*	*	*	QiimeExactMatch.Maca2_1	*
+H	3	394	99.5	+	0	0	394M	QiimeExactMatch.Maca2_2	QiimeExactMatch.Maca2_1
+S	4	397	*	*	*	*	*	QiimeExactMatch.Pbra2_1	*
+S	5	396	*	*	*	*	*	QiimeExactMatch.Rmac_6	*
+H	5	396	99.7	+	0	0	396M	QiimeExactMatch.Rmac_4	QiimeExactMatch.Rmac_6
+H	5	397	99.5	+	0	0	147MD249M	QiimeExactMatch.Rmac_1	QiimeExactMatch.Rmac_6
+H	0	398	99.2	+	0	0	156MI42MI200M	QiimeExactMatch.Rque2_31	QiimeExactMatch.Rque2_3
+H	0	398	99.2	+	0	0	156MI42MI200M	QiimeExactMatch.Rque2_30	QiimeExactMatch.Rque2_3
+H	1	399	100.0	+	0	0	399M	QiimeExactMatch.Rque2_8	QiimeExactMatch.Rque2_12
+S	6	391	*	*	*	*	*	QiimeExactMatch.Hgin1_1	*
+H	3	394	99.2	+	0	0	394M	QiimeExactMatch.Mpac2_5	QiimeExactMatch.Maca2_1
+S	7	394	*	*	*	*	*	QiimeExactMatch.Mpac1_1	*
+H	7	393	99.5	+	0	0	17MI376M	QiimeExactMatch.Mpac1_2	QiimeExactMatch.Mpac1_1
+S	8	398	*	*	*	*	*	QiimeExactMatch.Pbra1_6	*
+H	5	396	99.7	+	0	0	396M	QiimeExactMatch.Rmac_9	QiimeExactMatch.Rmac_6
+S	9	396	*	*	*	*	*	QiimeExactMatch.Rmac_3	*
+H	5	396	99.5	+	0	0	396M	QiimeExactMatch.Rmac_7	QiimeExactMatch.Rmac_6
+H	0	400	99.8	+	0	0	400M	QiimeExactMatch.Rque2_4	QiimeExactMatch.Rque2_3
+H	0	400	99.5	+	0	0	156MI63MD180M	QiimeExactMatch.Rque2_16	QiimeExactMatch.Rque2_3
+H	0	399	99.5	+	0	0	156MI243M	QiimeExactMatch.Rque2_10	QiimeExactMatch.Rque2_3
+H	0	399	99.7	+	0	0	156MI243M	QiimeExactMatch.Rque2_11	QiimeExactMatch.Rque2_3
+H	0	400	99.8	+	0	0	400M	QiimeExactMatch.Rque2_19	QiimeExactMatch.Rque2_3
+H	0	398	99.2	+	0	0	156MI42MI200M	QiimeExactMatch.Rque2_32	QiimeExactMatch.Rque2_3
+H	1	398	99.7	+	0	0	48MI350M	QiimeExactMatch.Rque2_34	QiimeExactMatch.Rque2_12
+H	0	400	99.0	+	0	0	400M	QiimeExactMatch.Rque2_2	QiimeExactMatch.Rque2_3
+H	0	400	99.2	+	0	0	400M	QiimeExactMatch.Rque2_26	QiimeExactMatch.Rque2_3
+H	0	400	99.8	+	0	0	400M	QiimeExactMatch.Rque2_17	QiimeExactMatch.Rque2_3
+H	1	400	99.2	+	0	0	199MD200M	QiimeExactMatch.Rque2_23	QiimeExactMatch.Rque2_12
+H	1	399	100.0	+	0	0	399M	QiimeExactMatch.Rque2_15	QiimeExactMatch.Rque2_12
+H	1	400	99.5	+	0	0	199MD200M	QiimeExactMatch.Rque2_18	QiimeExactMatch.Rque2_12
+S	10	400	*	*	*	*	*	QiimeExactMatch.Rque2_27	*
+H	10	401	99.5	+	0	0	157MD243M	QiimeExactMatch.Rque2_21	QiimeExactMatch.Rque2_27
+S	11	399	*	*	*	*	*	QiimeExactMatch.Rque2_1	*
+H	10	401	99.5	+	0	0	156MD244M	QiimeExactMatch.Rque2_28	QiimeExactMatch.Rque2_27
+S	12	391	*	*	*	*	*	QiimeExactMatch.Hgin1_4	*
+H	6	392	99.2	+	0	0	63MD328M	QiimeExactMatch.Hgin1_3	QiimeExactMatch.Hgin1_1
+H	6	392	99.5	+	0	0	63MD328M	QiimeExactMatch.Hgin1_5	QiimeExactMatch.Hgin1_1
+S	13	392	*	*	*	*	*	QiimeExactMatch.Hgin3_1	*
+S	14	392	*	*	*	*	*	QiimeExactMatch.Hgin3_3	*
+H	14	391	99.5	+	0	0	216MI175M	QiimeExactMatch.Hgin3_2	QiimeExactMatch.Hgin3_3
+H	3	394	99.5	+	0	0	394M	QiimeExactMatch.Mpac2_2	QiimeExactMatch.Maca2_1
+S	15	394	*	*	*	*	*	QiimeExactMatch.Mpac2_4	*
+S	16	394	*	*	*	*	*	QiimeExactMatch.Mpac2_3	*
+S	17	398	*	*	*	*	*	QiimeExactMatch.Pbra2_6	*
+S	18	397	*	*	*	*	*	QiimeExactMatch.Pbra1_2	*
+H	17	396	99.2	+	0	0	82MI224MI90M	QiimeExactMatch.Pbra2_4	QiimeExactMatch.Pbra2_6
+H	18	397	99.7	+	0	0	397M	QiimeExactMatch.Pbra2_5	QiimeExactMatch.Pbra1_2
+H	18	397	99.2	+	0	0	397M	QiimeExactMatch.Pbra2_7	QiimeExactMatch.Pbra1_2
+H	8	398	99.5	+	0	0	398M	QiimeExactMatch.Pbra1_1	QiimeExactMatch.Pbra1_6
+H	8	398	99.5	+	0	0	398M	QiimeExactMatch.Pbra1_8	QiimeExactMatch.Pbra1_6
+H	8	398	99.5	+	0	0	398M	QiimeExactMatch.Pbra1_7	QiimeExactMatch.Pbra1_6
+C	0	13	99.4	*	*	*	*	QiimeExactMatch.Rque2_3	*
+C	1	6	99.7	*	*	*	*	QiimeExactMatch.Rque2_12	*
+C	2	1	*	*	*	*	*	QiimeExactMatch.Pbra1_3	*
+C	3	4	99.4	*	*	*	*	QiimeExactMatch.Maca2_1	*
+C	4	1	*	*	*	*	*	QiimeExactMatch.Pbra2_1	*
+C	5	5	99.6	*	*	*	*	QiimeExactMatch.Rmac_6	*
+C	6	3	99.4	*	*	*	*	QiimeExactMatch.Hgin1_1	*
+C	7	2	99.5	*	*	*	*	QiimeExactMatch.Mpac1_1	*
+C	8	4	99.5	*	*	*	*	QiimeExactMatch.Pbra1_6	*
+C	9	1	*	*	*	*	*	QiimeExactMatch.Rmac_3	*
+C	10	3	99.5	*	*	*	*	QiimeExactMatch.Rque2_27	*
+C	11	1	*	*	*	*	*	QiimeExactMatch.Rque2_1	*
+C	12	1	*	*	*	*	*	QiimeExactMatch.Hgin1_4	*
+C	13	1	*	*	*	*	*	QiimeExactMatch.Hgin3_1	*
+C	14	2	99.5	*	*	*	*	QiimeExactMatch.Hgin3_3	*
+C	15	1	*	*	*	*	*	QiimeExactMatch.Mpac2_4	*
+C	16	1	*	*	*	*	*	QiimeExactMatch.Mpac2_3	*
+C	17	2	99.2	*	*	*	*	QiimeExactMatch.Pbra2_6	*
+C	18	3	99.5	*	*	*	*	QiimeExactMatch.Pbra1_2	*

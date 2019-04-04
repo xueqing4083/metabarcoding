@@ -1,0 +1,13 @@
+#Parameters for 99pct open reference OTU picking with rdp taxonomy assignment
+
+
+# OTU picker parameters
+pick_otus:similarity	0.99
+pick_otus:enable_rev_strand_match	True
+
+# Taxonomy assignment parameters
+assign_taxonomy:reference_seqs_fp	/macqiime/SILVA_132_QIIME_release/rep_set/rep_set_18S_only/99/silva_132_99_18S.fna
+assign_taxonomy:id_to_taxonomy_fp	/macqiime/SILVA_132_QIIME_release/taxonomy/18S_only/99/majority_taxonomy_7_levels.txt
+assign_taxonomy:assignment_method	rdp
+assign_taxonomy:confidence	0.7
+assign_taxonomy:rdp_max_memory	90000

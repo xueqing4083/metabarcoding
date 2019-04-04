@@ -1,0 +1,16 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	NematodeOrder	NematodeFamily	NematodeGenus	NematodeSpp	NumberOfSeqs	Description
+Asub	ATGC	NNNNN	Rhabditida	Aphelenchoididae	Aphelenchoides	Aphelenchoides subtenuis	4	Asub
+Hgin1	GGGG	NNNNN	Rhabditida	Panagrolaimidae	Halicephalobus	Halicephalobus gingivalis	7	Hgin1
+Hgin2	CCCC	NNNNN	Rhabditida	Panagrolaimidae	Halicephalobus	Halicephalobus gingivalis	3	Hgin2
+Hgin3	AAAA	NNNNN	Rhabditida	Panagrolaimidae	Halicephalobus	Halicephalobus gingivalis	3	Hgin3
+Maca2	TTTT	NNNNN	Rhabditida	Tylenchidae	Malenchus 	Malenchus acarayensis 	5	Maca2
+Mpac1	TAGC	NNNNN	Rhabditida	Tylenchidae	Malenchus	Malenchus pachycephalus	4	Mpac1
+Mpac2	GCTA	NNNNN	Rhabditida	Tylenchidae	Malenchus	Malenchus pachycephalus	6	Mpac2
+Pbra1	GCCG	NNNNN	Rhabditida	Pratylenchidae	Pratylenchus	Pratylenchus brachyurus	8	Pbra1
+Pbra2	TTAA	NNNNN	Rhabditida	Pratylenchidae	Pratylenchus	Pratylenchus brachyurus	7	Pbra2
+Pmed	AATT	NNNNN	Rhabditida	Pratylenchidae	Pratylenchus	Pratylenchus mediterraneus	5	Pmed
+Rren	TAAT	NNNNN	Rhabditida	Hoplolaimidae	Rotylenchulus	Rotylenchulus renifoms	19	Rren
+Rmac	GTTA	NNNNN	Rhabditida	Hoplolaimidae	Rotylenchus 	Rotylenchus macrosoma 	10	Rmac
+Rque1	CTTA	NNNNN	Rhabditida	Aphelenchoididae	Ruehmaphelenchus	Ruehmaphelenchus quercophilus	27	Rque1
+Rque2	CGGC	NNNNN	Rhabditida	Aphelenchoididae	Ruehmaphelenchus	Ruehmaphelenchus quercophilus	35	Rque2
+Xpar	GGAA	NNNNN	Dorylaimida	Longidoridae	Xiphinema  	Xiphinema parachambersi 	3	Xpar

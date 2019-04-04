@@ -1,0 +1,13 @@
+New.CleanUp.ReferenceOTU0	Rque1_7	Rque1_12	Rque1_13	Rque1_15	Rque1_18	Rque1_19	Rque1_20	Rque1_21	Rque1_22	Rque1_10	Rque1_11	Rque1_5	Rque1_9	Rque1_14	Rque1_4	Rque1_16	Rque1_17	Rque1_8	Rque1_6
+New.CleanUp.ReferenceOTU1	Hgin2_1
+New.CleanUp.ReferenceOTU2	Hgin2_2
+New.CleanUp.ReferenceOTU3	Rmac_9
+New.CleanUp.ReferenceOTU4	Rque1_1
+New.CleanUp.ReferenceOTU5	Pbra2_5
+New.CleanUp.ReferenceOTU6	Rmac_3	Rmac_6	Rmac_7	Rmac_1	Rmac_2	Rmac_5	Rmac_4	Rmac_8
+New.CleanUp.ReferenceOTU7	Rque1_26	Rque1_27	Rque1_23	Rque1_25	Rque1_2	Rque1_3	Rque1_24
+New.CleanUp.ReferenceOTU8	Pbra2_7	Pbra1_1	Pbra2_6
+New.CleanUp.ReferenceOTU9	Pbra2_2	Pbra2_3
+New.CleanUp.ReferenceOTU10	Pbra1_3	Pbra1_4	Pbra1_5	Pbra1_2	Pbra1_7	Pbra2_4	Pbra1_6	Pbra2_1	Pbra1_8
+New.CleanUp.ReferenceOTU11	Xpar_3	Xpar_2
+New.CleanUp.ReferenceOTU12	Xpar_1
